@@ -1,6 +1,6 @@
 # ChissNames
 The original idea for this project was that it would be able to find patterns
-in the new EY Chiss name components, such as the mode (as of the publishing of
+in the new EU Chiss name components, such as the mode (as of the publishing of
 Lesser Evil, no non-family components repeat). It would also have a search
 feature and a text based user interface. Those features were never programmed.
 Instead it will create Family, Chiss, and Core objects and store them in ArrayLists.
