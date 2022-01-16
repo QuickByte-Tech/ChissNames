@@ -1,0 +1,52 @@
+Thrawn or Vurawn,nuruodo,raw,Kivu
+Thrawn or Vurawn,Nuru
+Ar'alani or Ziara,alani,ar,Irizi
+Thalias or Al'iastov,astov,ali,Mitth
+Thurfian,ianico,urf,Mitth
+Samakro,ro,mak,Ufsa
+Ba'kif or Labki,kif,ba,Stybla
+Che'ri,ri,Che
+Ab'begh,begh,Ab
+Azmordi,diamir,mor,Tumaz
+Ilparg,gasoi,par,Boadil
+Dalvu,vumic,al,Elod
+Zistalmu,mustro,stal,Irizi
+Ja'fosk,fosk,Ja
+Wutroow,owmis,tro,Kiwu
+Thooraki,akiord,oor,Mitth
+Thrass,safis,ras,Mitth
+Thyklo,omi,ykl,Mitth
+Kharill,illmorf,ar,Plikh
+Biclian,nuf,lia,Obbic
+Octrimo,morhs,tri,Droc
+Roscu,culry,os,Clarr
+Ziinda or Lakinda,daro,in,Xodlak
+Lakuviv,vil,uvi,Xodlak
+Lakphro,ooa,phr,Xodlak
+Yoponek,nekri,po,Coduyo
+Bet'nih,nih,Bet
+Afpriuh,uhme,pri,Chaf
+Apros,strob,ro,Csap
+Ghaloksu,sumf,ok,Erighal
+Oesputi,titor,pu,Evroes
+Thivik,iklo,iv,Mitth
+Oeskym,mormi,ky,Evroes
+Larsiom,omli,rsi,Stybla
+Lakjiip,iprip,ji,Xodlak
+Lakooni,nifis,oo,Xodlak
+Ziemol,lacfo,emo,Irizi
+Lamiov,ovodo,mi,Stybla
+Retuvili,vilimt,etu,Clarr
+Rivlex,exow,ivl,Clarr
+Rupiov,ovmos,upi,Clarr
+Borkia; Vurika; Zirika; or Rik'ardok,ardok,rik,Cohbo
+Kloirvursi,ursimi,irv,Dasklo
+Dy'lothe,lothe,Dy
+Ers'ikaro,ikaro,Ers
+Zififerenc,rencpok,fife,Irizi
+Lappincyk,cykok,ppin,Stybla
+Lakbrovom,omtivti,brov,Xodlak
+Mi'yaric,yaric,Mi
+Un'hee,hee,un
+Vah'nya,nya,vah
+Thomoro,rossodo,omo,Mitth

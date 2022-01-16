@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Chiss
+comment1.params=cor\ suf
+comment1.target=Chiss(java.lang.String,\ java.lang.String)
+comment2.params=cor\ suf\ per
+comment2.target=Chiss(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=cor\ suf\ per\ fam
+comment3.target=Chiss(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

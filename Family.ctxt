@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Family
+comment1.params=n\ s
+comment1.target=Family(java.lang.String,\ java.lang.String)
+comment2.params=n
+comment2.target=Family(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFamily()
+numComments=4

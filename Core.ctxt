@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Core
+comment1.params=n\ f
+comment1.target=Core(java.lang.String,\ java.lang.String)
+comment2.params=n
+comment2.target=Core(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getInfo()
+numComments=5
